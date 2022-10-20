@@ -1,0 +1,4 @@
+#ignore all files in the directory ignore
+ignore/
+#ignore all dependencies
+node_modules/
